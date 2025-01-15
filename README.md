@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Praise Manzi
-- 👀 Interested in software engineering and cybersecurity
-- 🌱 Currently studying computer science with Cybersecurity at Oklahoma Christian University.
+- 👀 Software Engineer 
+- 🌱 Currently studying computer science with Business at Oklahoma Christian University.
 - 💞️ Looking to collaborate on front-end and back-end projects.
 - 📫 How to reach me: www.linkedin.com/in/praise-manzi-72342021a 
 - 😄 Pronouns: she/her
